@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/ravero/SwiftTryCatch"
   s.license          = 'MIT'
   s.author           = { "William Falcon" => "waf2107@columbia.edu" }
-  s.source           = { :git => "https://github.com/seanparsons/SwiftTryCatch.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/rudedogg/SwiftTryCatch.git", :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
   s.osx.deployment_target = '10.9'
