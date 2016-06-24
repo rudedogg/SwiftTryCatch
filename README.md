@@ -7,6 +7,9 @@ Simple wrapper built around Objective-C `@try`/`@catch`/`@finally`.
 
 **Note:** This repository was originally forked from [https://github.com/williamFalcon/SwiftTryCatch](https://github.com/williamFalcon/SwiftTryCatch) and updated to work with Swift 2.0, since the original API conflicted with new try/catch keywords introduced by new Swift version.
 
+Swift 2.0 support was added by https://github.com/seanparsons/SwiftTryCatch, which I've forked. This fork allows installs for OS X, tvOS, and watchOS. 
+
+
 ##Usage
 
 ### Install via Cocoapods
