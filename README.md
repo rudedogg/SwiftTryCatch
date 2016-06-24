@@ -13,7 +13,7 @@ Simple wrapper built around Objective-C `@try`/`@catch`/`@finally`.
 
 To use this specific repository version of SwiftTryCatch use the following pod definition:
 
-    pod 'SwiftTryCatch', :git => 'https://github.com/ravero/SwiftTryCatch.git'
+    pod 'SwiftTryCatch', :git => 'https://github.com/rudedogg/SwiftTryCatch.git'
 
 This will use the podspec from this forked repository with the API signature changes.
 
